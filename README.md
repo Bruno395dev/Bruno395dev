@@ -15,19 +15,24 @@ Desarrollador Web Jr. | Militar por vocación | Aprendiz constante
 ---
 
 ## 🦄 **Lenguajes**
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Sass
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) JavaScript
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) TypeScript
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) HTML5
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) CSS3
+- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff) Sass
+
+---
 
 ## 💼 **Herramientas**
-- React
-- Node.js
-- Git & GitHub
-- Bootstrap
-- Vercel
-- EmailJS
+
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=222) React
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff) Node.js
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff) Git
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff) GitHub
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff) Bootstrap
+- ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=fff) Vercel
+- ![EmailJS](https://img.shields.io/badge/-EmailJS-4A90E2?style=flat-square&logo=email&logoColor=fff) EmailJS
 
 ---
 
@@ -47,7 +52,6 @@ Desarrollador Web Jr. | Militar por vocación | Aprendiz constante
   <a href="https://www.linkedin.com/in/bruno-dev" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Puedes agregar más badges si deseas, como WhatsApp, Facebook o Instagram -->
 </p>
 
 ---
@@ -55,4 +59,3 @@ Desarrollador Web Jr. | Militar por vocación | Aprendiz constante
 > “La disciplina y la pasión son mis motores para aprender y crear soluciones que marquen la diferencia.”
 
 ---
-
