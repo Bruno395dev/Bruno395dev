@@ -1,67 +1,58 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustración de un computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 # ¡Hola, soy Bruno! 👋
 
-Desarrollador Web Jr. | Apasionado por la tecnología y el aprendizaje constante
+Desarrollador Web Jr. | Militar por vocación | Aprendiz constante
 
 ---
 
-## 👨‍💻 Sobre mí
-
-Un gusto. Soy un Junior fascinado por el mundo Web, militar por vocación y un eterno aprendiz. Me caracteriza la disciplina, la proactividad y el trabajo en equipo, cualidades que traslado a cada proyecto que desarrollo y a cada equipo en el que participo.
-
----
-
-## 🛠️ Skills
-
-- **React**
-- **Node.js**
-- **JavaScript**
-- **TypeScript**
-- **Git**
-- **HTML, CSS, Sass, Bootstrap**
+<p align="left">
+  Soy Bruno Martinez, desarrollador web junior apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo.<br>
+  Actualmente me encuentro perfeccionando mis habilidades en desarrollo web y cursando la Tecnicatura en Seguridad Informática.<br>
+  Disfruto crear soluciones modernas con un enfoque profesional y creativo.
+</p>
 
 ---
 
-## 🏆 Logros
+## 🦄 **Lenguajes**
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Sass
 
-- **Primer Landing Page publicada en 2024**
-- **Primer Proyecto Entregado y Desplegado** (PrestaMax Global)
-- **Certificación de CoderHouse** (Desarrollo Web)
-- **Continuación de estudios:** Tecnicatura en Seguridad Informática
-
----
-
-## 🚀 Proyectos Destacados
-
-- [PrestaMax Global](https://www.prestamaxglobal.com/) – Plataforma web de préstamos personales (React, Node.js, EmailJS, CSS, Vercel)
-- **Otros proyectos:**  
-  - Monorepo MuniSMA, Gestor de Trámites SITRAM (React)  
-  - Examen Final Desarrollo de Apps (Ucasal – EJS)  
-  - Proyecto Final CoderHouse (HTML, CSS, Sass, Bootstrap)
+## 💼 **Herramientas**
+- React
+- Node.js
+- Git & GitHub
+- Bootstrap
+- Vercel
+- EmailJS
 
 ---
 
-## 💡 Soft Skills
-
-- Liderazgo
-- Proactividad
-- Responsabilidad
-- Espíritu de Cuerpo
-- Comunicación
-- Creatividad
-- Adaptabilidad
-- Autocrítica
-- Capacidad de resolución
+## 🏆 **Logros**
+- Primer Landing Page publicada en 2024
+- PrestaMax Global: Primer proyecto profesional desplegado
+- Certificado en Desarrollo Web por CoderHouse
+- Tecnicatura en Seguridad Informática (en curso)
 
 ---
 
-## 📫 Contacto
-
-- **Email:** brunomartinez395@gmail.com
-- **LinkedIn:** [bruno-dev](https://www.linkedin.com/in/bruno-dev)
-- **GitHub:** [@bruno](https://github.com/bruno)
+## 💌 **¿Querés contactarme?**  
+<p align="left">
+  <a href="mailto:brunomartinez395@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-dev" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Puedes agregar más badges si deseas, como WhatsApp, Facebook o Instagram -->
+</p>
 
 ---
 
 > “La disciplina y la pasión son mis motores para aprender y crear soluciones que marquen la diferencia.”
 
 ---
+
